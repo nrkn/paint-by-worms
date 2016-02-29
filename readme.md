@@ -2,6 +2,8 @@
 
 An interactive, generative art piece for JS1k 2016
 
+[Try it out](http://js1k.com/2016-elemental/demo/2493)
+
 ## How to use
 
 Clicking anywhere on the canvas spawns a generation of elemental "worms" which 
